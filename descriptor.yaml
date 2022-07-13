@@ -1,5 +1,5 @@
-code: lapam-metopack
-description: Lapam Metopack
+code: entando-lapam-metopack-layout
+description: Entando Lapam Metopack Layout Starter
 bundle-type: system-level-bundle
 components:
   widgets:

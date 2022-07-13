@@ -32,7 +32,7 @@ attributes:
     value:
       symbolicDestination: '#!P;homepage!#'
       urlDest: null
-      pageDest: demo_homepage
+      pageDest: homepage
       contentDest: null
       destType: 2
       resourceDest: null

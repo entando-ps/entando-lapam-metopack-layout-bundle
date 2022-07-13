@@ -62,6 +62,7 @@ components:
     - contentTypes/bnr-descriptor.yaml
     - contentTypes/crd-descriptor.yaml
     - contentTypes/csr-descriptor.yaml
+    - contentTypes/hea-descriptor.yaml
     - contentTypes/log-descriptor.yaml
     - contentTypes/lol-descriptor.yaml
     - contentTypes/med-descriptor.yaml

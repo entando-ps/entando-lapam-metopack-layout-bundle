@@ -27,7 +27,7 @@ widgets:
     pos: 3
   - code: navigation-menu
     config:
-      navSpec: code(demo_homepage) + code(demo_docs) + code(demo_avvisi)
+      navSpec: code(homepage) + code(demo_docs) + code(demo_avvisi)
     pos: 4
   - code: lapam-kc-manager
     config: null

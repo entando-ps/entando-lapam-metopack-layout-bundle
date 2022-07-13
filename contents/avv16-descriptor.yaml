@@ -41,8 +41,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: Avviso ai nuovi utenti
-      it: Avviso ai nuovi utenti
+      en: Notice to new businesses
+      it: Avviso alle nuove imprese
     elements: []
     compositeelements: []
     listelements: {}

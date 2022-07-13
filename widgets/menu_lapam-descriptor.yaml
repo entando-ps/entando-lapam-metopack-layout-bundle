@@ -8,8 +8,8 @@ customUi: |-
 
                <ul class="navbar-nav mr-auto entando-navbar-menu">
                   <li class="nav-link active" padre="">
-                     <a href="<@wp.url page="demo_homepage" />" class="nav-link no-son-page 1" />
-                     <span> <i class="icon-home"></i> Demo home </span>
+                     <a href="<@wp.url page="homepage" />" class="nav-link no-son-page 1" />
+                     <span> <i class="icon-home"></i>Home </span>
                      </a>
                   </li>
                   <li class="nav-link" padre="">

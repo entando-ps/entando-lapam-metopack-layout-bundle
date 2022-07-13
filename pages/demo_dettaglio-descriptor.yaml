@@ -35,7 +35,7 @@ widgets:
     pos: 3
   - code: demo_menu_es
     config:
-      navSpec: code(demo_homepage) + code(demo_docs) + code(demo_avvisi)
+      navSpec: code(homepage) + code(demo_docs) + code(demo_avvisi)
     pos: 4
   - code: demo_breadcrumb
     config: null

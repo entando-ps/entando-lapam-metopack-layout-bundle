@@ -64,16 +64,16 @@
     it: Scarica
 - key: DEMO_NOTIFICA
   titles:
-    en: Sezione notifiche
+    en: Notifications section
     it: Sezione notifiche
 - key: DEMO_NO_ALLEGATI
   titles:
-    en: Non sono presenti allegati al momento
+    en: There are no attachments at the moment
     it: Non sono presenti allegati al momento
 - key: DEMO_PORT_ES_TITLE
   titles:
-    en: DEMO Template
-    it: DEMO Template
+    en: Lapam POC
+    it: Lapam POC
 - key: DEMO_READ_MORE
   titles:
     en: Read more

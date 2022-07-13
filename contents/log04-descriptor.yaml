@@ -30,7 +30,7 @@ attributes:
     listelements: {}
   - code: link
     value:
-      symbolicDestination: '#!P;demo_homepage!#'
+      symbolicDestination: '#!P;homepage!#'
       urlDest: null
       pageDest: demo_homepage
       contentDest: null

@@ -15,7 +15,6 @@ components:
     - widgets/demo_menu-descriptor.yaml
     - widgets/demo_menu_es-descriptor.yaml
     - widgets/demo_search-descriptor.yaml
-    - widgets/ent-lapam-metopack-mfe-descriptor.yaml
     - widgets/hero_unit-descriptor.yaml
     - widgets/menu_lapam-descriptor.yaml
     - widgets/search_form-descriptor.yaml

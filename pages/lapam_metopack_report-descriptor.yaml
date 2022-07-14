@@ -25,9 +25,8 @@ widgets:
   - code: demo_search
     config: null
     pos: 3
-  - code: navigation-menu
-    config:
-      navSpec: code(homepage) + code(demo_docs) + code(demo_avvisi)
+  - code: menu_lapam
+    config: null
     pos: 4
   - code: ent-lapam-metopack-MFE
     config:

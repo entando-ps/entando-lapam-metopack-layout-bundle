@@ -33,9 +33,8 @@ widgets:
   - code: demo_search
     config: null
     pos: 3
-  - code: demo_menu_es
-    config:
-      navSpec: code(homepage) + code(demo_docs) + code(demo_avvisi)
+  - code: menu_lapam
+    config: null
     pos: 4
   - code: demo_breadcrumb
     config: null

@@ -1,7 +1,7 @@
 code: hero_unit
-titles: null
-en: Hero unit
-it: Hero unit
+titles:
+  en: Hero unit
+  it: Hero unit
 group: free
 customUi: |-
   <#assign wp=JspTaglibs["/aps-core"]>

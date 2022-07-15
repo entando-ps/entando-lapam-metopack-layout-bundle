@@ -1,6 +1,5 @@
-/**medias  **/
-
-@media (max-width: 1024px) and (min-width: 320px) and (orientation: portrait) {
+/**custom css file **/
+/**custom css file **/@media (max-width: 1024px) and (min-width: 320px) and (orientation: portrait) {
     .container {
         max-width: 97%;
     }
@@ -10,27 +9,13 @@
     }
 
     .it-header-slim-wrapper {
-        background: rgb(255 255 255)!important;
+        background: rgb(91 93 96)!important;
         height: 77px !important;
     }
 
     .card.card-big .card-body .card-text {
         font-size: 1.3rem;
         line-height: 1.33333rem;
-        height: 11.9em;
-    }
-    .awareness-card.documenti-evidenza .card.card-big .card-body .card-text {
-        position: relative;
-        line-height: 1.2em;
-        height: 11.9em;
-        text-align: justify;
-        margin-right: 1em;
-        padding-right: 1em;
-        overflow: hidden;
-    }
-
-    .awareness-card.documenti-evidenza .card.card-big .card-body .card-text::before {
-        display: none;
     }
 
     .card .card-body .category-top a.category {
@@ -214,21 +199,7 @@
         font-size: 30px;
     }
     h2 {
-        font-size: 35px !Important;
-    }
-    .it-hero-wrapper .it-hero-text-wrapper .it-btn-container {
-        position: relative;
-        margin-top: 10px;
-    }
-
-    .btn-hero {
-        padding: 5px;
-        font-size: 25px;
-        line-height: 1.45;
-        margin: 7px;
-        width: 80%;
-        background: #06c !important;
-        color: #fff !important;
+        font-size: 39px !Important;
     }
     .footer a {
         color: #333;
@@ -525,7 +496,6 @@
         flex-shrink: 0;
     }
     .custom-navbar-toggler svg {
-        fill: #0054a5;
         width: 76px;
         height: 76px;
         display: block;
@@ -549,10 +519,6 @@
         position: relative;
         font-size: 39px;
     }
-    .nav-link span {
-        color: #06c;
-    }
-
     .navbar .navbar-collapsable .navbar-nav li a.nav-link.active {
         border-left: 0px solid #06c;
         background: #0167cc;
@@ -598,7 +564,7 @@
     }
     .card.card-big .card-body h5.card-title {
         font-size: 28px !important;
-        line-height: 1.9rem !important;
+        line-height: 1.55556rem;
     }
     .link-body {
         background: rgb(91 93 96);
@@ -970,7 +936,7 @@
         color: rgb(91 93 96);
     }
     ul.navbar-nav {
-        margin: 7em 0;
+        margin: 4em 0;
     }
     .modal-body-caller p a {
         font-size: 37px;
@@ -1051,7 +1017,7 @@
         display: flex;
         align-items: center;
         width: 100%;
-        background: #06c;
+        background: rgb(91 93 96);
         /* margin: 0 0px; */
         /* border: 1px solid rgb(91 93 96); */
         border-radius: 0;
@@ -1905,17 +1871,12 @@
         content: "...";
         position: absolute;
         right: 5px;
-        bottom: 13px;
+        bottom: 12px;
     }
     .logo-sezione {
         height: 78px;
         margin-right: 10px;
         margin-left: -12px;
-    }
-    .icon-lg {
-        max-height: 100px;
-        padding: 1rem;
-        margin: 0 1px 0 25px;
     }
 }
 
@@ -2127,7 +2088,7 @@
         font-size: 30px;
     }
     h2 {
-        font-size: 29px !important;
+        font-size: 39px !important;
         /* border-bottom: 1px solid #000000!important; */
         /* margin-bottom: 1em; */
     }
@@ -2402,7 +2363,7 @@
         flex-shrink: 0;
     }
     .custom-navbar-toggler svg {
-        fill: #1d56a4 !important;
+        /* fill: #fff; */
         width: 58px;
         height: 80px;
         display: block;
@@ -3475,7 +3436,7 @@
         cursor: pointer;
     }
     .it-header-slim-wrapper {
-        background: rgb(255 255 255);
+        background: rgb(91 93 96);
         height: 73px !important;
     }
     .searchable .fa-2x  {
@@ -3617,10 +3578,5 @@
         height: 207px;
         position: relative;
         box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-    }
-
-    .icon-lg {
-        max-height: 99px;
-        padding: 1rem;
     }
 }

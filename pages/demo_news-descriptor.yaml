@@ -31,8 +31,8 @@ widgets:
   - code: content_viewer_list
     config:
       modelId: "606"
-      maxElemForItem: "12"
-      maxElements: "20"
+      maxElemForItem: "4"
+      maxElements: "4"
       categories:
         - demo-coms-es
       contentType: CRD
@@ -69,7 +69,7 @@ widgets:
     pos: 16
   - code: demo_footer_1
     config:
-      modelId: '513'
+      modelId: '19'
       contentId: LOL05
     pos: 17
   - code: demo_footer_3

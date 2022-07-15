@@ -1,6 +1,6 @@
 id: CRD13
 typeCode: CRD
-description: Ancora diversi fondi disponibili con la Nuova Sabatini
+description: Prenotazione tampone
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: 'Se devi fare un investimento assistito da finanziamento bancario, o da leasing, per un minimo di 20.000 euro questa misura è quella che fa per te'
-      it: 'Se devi fare un investimento assistito da finanziamento bancario, o da leasing, per un minimo di 20.000 euro questa misura è quella che fa per te'
+      en: Prenotazione servizio
+      it: Prenotazione servizio
     elements: []
     compositeelements: []
     listelements: {}
@@ -89,8 +89,8 @@ attributes:
   - code: ufficio
     value: null
     values:
-      en: Agevolazioni
-      it: Agevolazioni
+      en: Ufficio Abilitazioni
+      it: Ufficio Abilitazioni
     elements: []
     compositeelements: []
     listelements: {}
@@ -98,14 +98,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>La misura Beni strumentali (la cosiddetta “Nuova Sabatini“) rappresenta la norma agevolata messa a disposizione dal Ministero dello sviluppo economico per facilitare gli accessi al credito delle imprese e accrescere la competitivita del sistema produttivo del Paese.</p>
+        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
       it: |
-        <p>La misura Beni strumentali (la cosiddetta “Nuova Sabatini“) rappresenta la norma agevolata messa a disposizione dal Ministero dello sviluppo economico per facilitare gli accessi al credito delle imprese e accrescere la competitivita del sistema produttivo del Paese.</p>
+        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2022-07-07 00:00:00'
+    value: '2021-10-27 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -113,8 +113,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: Ancora diversi fondi disponibili con la Nuova Sabatini
-      it: Ancora diversi fondi disponibili con la Nuova Sabatini
+      en: Prenotazione servizio
+      it: Prenotazione servizio
     elements: []
     compositeelements: []
     listelements: {}

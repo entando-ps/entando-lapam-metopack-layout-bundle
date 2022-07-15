@@ -7,7 +7,7 @@ customUi: |-
   <#assign wp=JspTaglibs["/aps-core"]>
 
                <ul class="navbar-nav mr-auto entando-navbar-menu">
-                  <li class="nav-link" padre="">
+                  <li class="nav-link active" padre="">
                      <a href="<@wp.url page="homepage" />" class="nav-link no-son-page 1" />
                      <span> <i class="icon-home"></i>Home </span>
                      </a>

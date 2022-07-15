@@ -84,7 +84,6 @@ components:
     - contentModels/demo-lista-link-footer-(lol)-descriptor.yaml
     - contentModels/demo-lista-card-immagini-(med)-descriptor.yaml
     - contentModels/demo-card-singola-media-(med)-descriptor.yaml
-    - contentModels/demo-card-news-evidenza-(crd)-descriptor.yaml
     - contentModels/demo-lista-documenti-evidenza-(crd)-descriptor.yaml
     - contentModels/demo-card-slider-(crd)-descriptor.yaml
     - contentModels/demo-risultato-per-lista-(crd)-descriptor.yaml

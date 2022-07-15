@@ -1,6 +1,6 @@
 id: CRD08
 typeCode: CRD
-description: Caro bollette nuova proroga delle misure anti rincari
+description: Presentazione del progetto di immissione di miscele di idrogeno nella rete di distribuzione gas
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: 'Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022'
-      it: 'Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022'
+      en: 'La società del gruppo Hera InRete Distribuzione Energia, da settembre inizierà una sperimentazione di immissione di una piccola percentuale di idrogeno nella rete gas in un’area ristretta e circoscritta a 40 utenze di Castelfranco Emilia'
+      it: 'La società del gruppo Hera InRete Distribuzione Energia, da settembre inizierà una sperimentazione di immissione di una piccola percentuale di idrogeno nella rete gas in un’area ristretta e circoscritta a 40 utenze di Castelfranco Emilia'
     elements: []
     compositeelements: []
     listelements: {}
@@ -24,10 +24,10 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '08'
+        correlationCode: '13'
         name: slide.jpg
       it:
-        correlationCode: '08'
+        correlationCode: '13'
         name: slide.jpg
     elements: []
     compositeelements: []
@@ -74,14 +74,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022</p>
+        <p>La società del gruppo Hera InRete Distribuzione Energia, da settembre inizierà una sperimentazione di immissione di una piccola percentuale di idrogeno nella rete gas in un’area ristretta e circoscritta a 40 utenze di Castelfranco Emilia</p>
       it: |
-        <p>Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022</p>
+        <p>La società del gruppo Hera InRete Distribuzione Energia, da settembre inizierà una sperimentazione di immissione di una piccola percentuale di idrogeno nella rete gas in un’area ristretta e circoscritta a 40 utenze di Castelfranco Emilia</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2022-07-11 00:00:00'
+    value: '2022-07-08 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -89,8 +89,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: 'Caro bollette, nuova proroga delle misure anti rincari'
-      it: 'Caro bollette, nuova proroga delle misure anti rincari'
+      en: 'Presentazione del progetto di immissione di miscele di idrogeno nella rete di distribuzione gas'
+      it: 'Presentazione del progetto di immissione di miscele di idrogeno nella rete di distribuzione gas'
     elements: []
     compositeelements: []
     listelements: {}

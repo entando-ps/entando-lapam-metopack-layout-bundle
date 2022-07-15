@@ -11,7 +11,7 @@ customUi: |-
             <div class="col-12">
                 <div class="it-hero-text-wrapper bg-dark">
                     <span class="it-category"></span>
-                    <h1></h1>
+                    <h1>Nuovi servizi Lapam</h1>
                     <p class="d-none d-lg-block"></p>
                     <div class="it-btn-container">
                         <a class="btn btn-hero btn-sm btn-outline-primary" href="<@wp.url page="lapam_metopack_report" />">

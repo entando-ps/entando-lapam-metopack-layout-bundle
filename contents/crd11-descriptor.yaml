@@ -25,7 +25,7 @@ attributes:
     values:
       en:
         correlationCode: '11'
-        name: lmattioli.jpg
+        name: mattioli.jpg
       it:
         correlationCode: '11'
         name: mattioli.jpg
@@ -81,7 +81,7 @@ attributes:
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2022-07-07 00:00:00'
+    value: '2022-07-06 00:00:00'
     values: {}
     elements: []
     compositeelements: []

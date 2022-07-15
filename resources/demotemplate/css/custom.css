@@ -29,10 +29,8 @@ a {
   border-top: 1px solid rgb(255, 255, 255);
 }
 .it-footer-main {
-  /* background-color: rgb(16, 12, 0); */
   color: rgb(255, 255, 255);
   font-size: 16px;
-  /* background-image: url(../img/vegetato_footer.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
@@ -41,7 +39,8 @@ a {
   display:none;
 }
 .head-office {
-  background: #efefef;
+  background: #06c;
+  color: #fff;
   padding: 10px 25px 10px 25px;
   font-weight: 600;
   border-top-left-radius: 6px;
@@ -729,7 +728,7 @@ a.bx--header__menu-item {
   height: 0;
   border-style: solid;
   border-width: 48px 0 0 48px;
-  border-color: transparent transparent transparent #bbbbb2;
+  border-color: transparent transparent transparent #a2c3f0;
 }
 
 .demo-logo {
@@ -824,6 +823,14 @@ h2.no_toc, h3.no_toc {
   background-color: #1D56A4;
 }
 
+.it-header-wrapper .dropdown-menu:before {
+  left: 142px !important;
+}
+
+.it-header-wrapper .dropdown-menu {
+  left: -57px !important;
+}
+
 .link-list-wrapper ul li a:hover:not(.disabled) span {
   color: white;
   text-decoration: underline;
@@ -855,7 +862,7 @@ h2.no_toc, h3.no_toc {
   padding: 36px 33px;
   font-size: 25px;
   line-height: 1.45;
-  margin: 0 15px;
+  margin: 15px;
 }
 .it-hero-wrapper.it-text-centered .it-hero-text-wrapper .it-btn-container, .it-hero-wrapper.it-text-centered .it-hero-text-wrapper span.it-category {
   left: 1%;
@@ -866,4 +873,10 @@ h2.no_toc, h3.no_toc {
   top: 61px !Important;
 }
 
+.it-hero-wrapper.it-text-centered .it-hero-text-wrapper {
+  padding: 65px 3% 260px;
+}
 
+.it-hero-wrapper .it-hero-text-wrapper :last-child {
+  margin-bottom: 15px;
+}

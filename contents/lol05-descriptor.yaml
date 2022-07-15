@@ -1,14 +1,14 @@
 id: LOL05
 typeCode: LOL
-description: link footer esempio colonna 1
+description: Servizi link
 mainGroup: free
 status: PUBLIC
 attributes:
   - code: title
     value: null
     values:
-      en: link footer esempio colonna 1
-      it: link footer esempio colonna 1
+      en: Servizi
+      it: Servizi
     elements: []
     compositeelements: []
     listelements: {}
@@ -18,43 +18,43 @@ attributes:
     elements:
       - code: links
         value:
-          symbolicDestination: '#!U;https://www.comc4.demo.servizi.it!#'
-          urlDest: 'https://www.comc4.demo.servizi.it'
+          symbolicDestination: '#!U;https://www.lapam.eu/servizi/my-lapam/!#'
+          urlDest: 'https://www.lapam.eu/servizi/my-lapam/'
           pageDest: null
           contentDest: null
           destType: 1
           resourceDest: null
         values:
-          en: Esempio link 1
-          it: Esempio link 1
+          en: MyLapam
+          it: MyLapam
         elements: []
         compositeelements: []
         listelements: {}
       - code: links
         value:
-          symbolicDestination: '#!U;https://intranet.demo.servizi.it/it/siti_regionali.page!#'
-          urlDest: 'https://intranet.demo.servizi.it/it/siti_regionali.page'
+          symbolicDestination: '#!U;https://www.lapam.eu/servizi/servizi-alla-persona/!#'
+          urlDest: 'https://www.lapam.eu/servizi/servizi-alla-persona/'
           pageDest: null
           contentDest: null
           destType: 1
           resourceDest: null
         values:
-          en: Esempio link 2
-          it: Esempio link 2
+          en: Servizi alla persona
+          it: Servizi alla persona
         elements: []
         compositeelements: []
         listelements: {}
       - code: links
         value:
-          symbolicDestination: '#!U;www.elenchiinlinea.demo.servizi.it!#'
-          urlDest: www.elenchiinlinea.demo.servizi.it
+          symbolicDestination: '#!U;Gestione dipendenti!#'
+          urlDest: Gestione dipendenti
           pageDest: null
           contentDest: null
           destType: 1
           resourceDest: null
         values:
-          en: Esempio link 3
-          it: Esempio link 3
+          en: Gestione dipendenti
+          it: Gestione dipendenti
         elements: []
         compositeelements: []
         listelements: {}

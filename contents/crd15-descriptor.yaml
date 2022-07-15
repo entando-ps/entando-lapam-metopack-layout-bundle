@@ -1,6 +1,6 @@
 id: CRD15
 typeCode: CRD
-description: Prenotazione tampone
+description: I prodotti finanziari Artigiancredito disponibili
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: Prenotazione servizio
-      it: Prenotazione servizio
+      en: 'Scopri i prodotti finanziari di Artigiancredito, dedicati alle imprese, attualmente disponibili: Piccolo Credito, Finanziamento Aidexa, Microcredito, Finanziamento agevolato L. 41, Finanziamento agevolato Starter, Convenzione tra Artigiancredito e Monte Paschi di Siena per la cessione dei crediti di imposta.'
+      it: 'Scopri i prodotti finanziari di Artigiancredito, dedicati alle imprese, attualmente disponibili: Piccolo Credito, Finanziamento Aidexa, Microcredito, Finanziamento agevolato L. 41, Finanziamento agevolato Starter, Convenzione tra Artigiancredito e Monte Paschi di Siena per la cessione dei crediti di imposta.'
     elements: []
     compositeelements: []
     listelements: {}
@@ -89,8 +89,8 @@ attributes:
   - code: ufficio
     value: null
     values:
-      en: Ufficio Abilitazioni
-      it: Ufficio Abilitazioni
+      en: Bandi e contributi
+      it: Bandi e contributi
     elements: []
     compositeelements: []
     listelements: {}
@@ -98,14 +98,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+        <p>Si tratta di un finanziamento chirografario finalizzato a sopperire ai bisogni finanziari immediati delle imprese con tempistiche di delibera ed erogazione estremamente veloci. È un canale alternativo al credito bancario e non necessita di apertura di un nuovo c/c.</p>
       it: |
-        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+        <p>Si tratta di un finanziamento chirografario finalizzato a sopperire ai bisogni finanziari immediati delle imprese con tempistiche di delibera ed erogazione estremamente veloci. È un canale alternativo al credito bancario e non necessita di apertura di un nuovo c/c.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2021-10-27 00:00:00'
+    value: '2022-07-14 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -113,8 +113,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: Prenotazione servizio
-      it: Prenotazione servizio
+      en: I prodotti finanziari Artigiancredito disponibili
+      it: I prodotti finanziari Artigiancredito disponibili
     elements: []
     compositeelements: []
     listelements: {}

@@ -30,7 +30,7 @@ widgets:
     pos: 4
   - code: demo_breadcrumb
     config: null
-    pos: 5
+    pos: 8
   - code: lapam-kc-manager
     config: null
     pos: 9
@@ -57,7 +57,7 @@ widgets:
     pos: 16
   - code: demo_footer_1
     config:
-      modelId: '19'
+      modelId: '513'
       contentId: LOL05
     pos: 17
   - code: demo_footer_3

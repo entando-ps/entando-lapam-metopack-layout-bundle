@@ -1,6 +1,6 @@
-id: CRD10
+id: CRD08
 typeCode: CRD
-description: Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022
+description: Agenzie viaggi e tour operator
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: 'Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022'
-      it: 'Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022'
+      en: 'La misura, approvata dalla Commissione europea, era contenuta nel Decreto legge Sostegni Ter. Ora si aspettano le procedure INPS'
+      it: 'La misura, approvata dalla Commissione europea, era contenuta nel Decreto legge Sostegni Ter. Ora si aspettano le procedure INPS'
     elements: []
     compositeelements: []
     listelements: {}
@@ -24,11 +24,11 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '10'
-        name: carburante.png
+        correlationCode: '12'
+        name: aereo.jpg
       it:
-        correlationCode: '10'
-        name: carburante.png
+        correlationCode: '12'
+        name: aereo.jpg
     elements: []
     compositeelements: []
     listelements: {}
@@ -65,8 +65,8 @@ attributes:
   - code: ufficio
     value: null
     values:
-      en: CUP
-      it: CUP
+      en: Lorem
+      it: Lorem
     elements: []
     compositeelements: []
     listelements: {}
@@ -74,14 +74,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022</p>
+        <p>La misura, approvata dalla Commissione europea, era contenuta nel Decreto legge Sostegni Ter. Ora si aspettano le procedure INPS</p>
       it: |
-        <p>Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022</p>
+        <p>La misura, approvata dalla Commissione europea, era contenuta nel Decreto legge Sostegni Ter. Ora si aspettano le procedure INPS</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2022-07-13 00:00:00'
+    value: '2022-07-12 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -89,8 +89,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: 'Carburanti, prorogato dal 9 luglio al 2 agosto il taglio delle accise'
-      it: 'Carburanti, prorogato dal 9 luglio al 2 agosto il taglio delle accise'
+      en: 'Agenzie viaggi e tour operator - via libera agli esoneri contributivi 2022'
+      it: 'Agenzie viaggi e tour operator - via libera agli esoneri contributivi 2022'
     elements: []
     compositeelements: []
     listelements: {}

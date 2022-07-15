@@ -1,6 +1,6 @@
-id: CRD10
+id: CRD08
 typeCode: CRD
-description: Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022
+description: Moda, rimbalzo export nel 2022
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: 'Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022'
-      it: 'Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022'
+      en: 'Ufficio studi rivela che la moda è il settore manifatturiero che nel corso del 2022 mostra il più forte rimbalzo della produzione. Resta anche quello che ha subito l’impatto più pesante della crisi innescata dalla pandemia.'
+      it: 'Ufficio studi rivela che la moda è il settore manifatturiero che nel corso del 2022 mostra il più forte rimbalzo della produzione. Resta anche quello che ha subito l’impatto più pesante della crisi innescata dalla pandemia.'
     elements: []
     compositeelements: []
     listelements: {}
@@ -24,11 +24,11 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '10'
-        name: carburante.png
+        correlationCode: '14'
+        name: tessile.jpg
       it:
-        correlationCode: '10'
-        name: carburante.png
+        correlationCode: '14'
+        name: tessile.jpg
     elements: []
     compositeelements: []
     listelements: {}
@@ -65,8 +65,8 @@ attributes:
   - code: ufficio
     value: null
     values:
-      en: CUP
-      it: CUP
+      en: Lorem
+      it: Lorem
     elements: []
     compositeelements: []
     listelements: {}
@@ -74,14 +74,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022</p>
+        <p>Ufficio studi rivela che la moda rappresenta il settore manifatturiero che nel corso del 2022 mostra il migliore rimbalzo nella produzione. Resta anche quello che ha subito maggiore impatto dalla crisi innescata dalla pandemia.</p>
       it: |
-        <p>Proroga del taglio delle accise sui carburanti dal 9 luglio al 2 agosto 2022</p>
+        <p>Ufficio studi rivela che la moda rappresenta il settore manifatturiero che nel corso del 2022 mostra il migliore rimbalzo nella produzione. Resta anche quello che ha subito maggiore impatto dalla crisi innescata dalla pandemia.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2022-07-13 00:00:00'
+    value: '2022-07-09 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -89,8 +89,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: 'Carburanti, prorogato dal 9 luglio al 2 agosto il taglio delle accise'
-      it: 'Carburanti, prorogato dal 9 luglio al 2 agosto il taglio delle accise'
+      en: 'Moda, rimbalzo export nel 2022'
+      it: 'Moda, rimbalzo export nel 2022'
     elements: []
     compositeelements: []
     listelements: {}

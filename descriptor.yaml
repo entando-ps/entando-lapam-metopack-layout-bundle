@@ -114,6 +114,9 @@ components:
     - assets/09/09-descriptor.yaml
     - assets/10/10-descriptor.yaml
     - assets/11/11-descriptor.yaml
+    - assets/12/12-descriptor.yaml
+    - assets/13/13-descriptor.yaml
+    - assets/14/14-descriptor.yaml
   contents:
     - contents/nws5-descriptor.yaml
     - contents/nws4-descriptor.yaml
@@ -136,6 +139,9 @@ components:
     - contents/crd13-descriptor.yaml
     - contents/crd15-descriptor.yaml
     - contents/crd14-descriptor.yaml
+    - contents/crd16-descriptor.yaml
+    - contents/crd17-descriptor.yaml
+    - contents/crd18-descriptor.yaml
     - contents/avv16-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml

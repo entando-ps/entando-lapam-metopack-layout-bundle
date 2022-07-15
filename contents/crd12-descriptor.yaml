@@ -1,6 +1,6 @@
 id: CRD12
 typeCode: CRD
-description: Prenotazione tampone
+description: Pubblicato il Bando Fiere della regione Emilia-Romagna per il 2022
 mainGroup: free
 status: PUBLIC
 categories:
@@ -89,8 +89,8 @@ attributes:
   - code: ufficio
     value: null
     values:
-      en: Ufficio Abilitazioni
-      it: Ufficio Abilitazioni
+      en: Bandi e contributi
+      it: Bandi e contributi
     elements: []
     compositeelements: []
     listelements: {}
@@ -98,14 +98,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+        <p>La regione Emilia-Romagna ha approvato il bando Fiere con delibera n. 1015 del 20 giugno 2022. Esso intende favorire la promozione internazionale delle PMI e la diversificazione dei mercati. Supporta, inoltre, progetti in grado di favorire i mercati di sbocco e a nuovi canali di vendita, soprattutto digitali, rafforzando la funzione del commercio estero in azienda. I progetti consentiranno di avere ricadute economiche e occupazionali in Emilia-Romagna</p>
       it: |
-        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+        <p>La regione Emilia-Romagna ha approvato il bando Fiere con delibera n. 1015 del 20 giugno 2022. Esso intende favorire la promozione internazionale delle PMI e la diversificazione dei mercati. Supporta, inoltre, progetti in grado di favorire i mercati di sbocco e a nuovi canali di vendita, soprattutto digitali, rafforzando la funzione del commercio estero in azienda. I progetti consentiranno di avere ricadute economiche e occupazionali in Emilia-Romagna</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2021-10-27 00:00:00'
+    value: '2022-07-05 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -113,8 +113,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: Prenotazione servizio
-      it: Prenotazione servizio
+      en: Pubblicato il Bando Fiere della regione Emilia-Romagna per il 2022
+      it: Pubblicato il Bando Fiere della regione Emilia-Romagna per il 2022
     elements: []
     compositeelements: []
     listelements: {}

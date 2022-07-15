@@ -1,14 +1,14 @@
 id: LOL06
 typeCode: LOL
-description: link footer esempio colonna 2
+description: Media e Notizie link
 mainGroup: free
 status: PUBLIC
 attributes:
   - code: title
     value: null
     values:
-      en: link footer esempio colonna 2
-      it: link footer esempio colonna 2
+      en: Media e Notizie
+      it: Media e Notizie
     elements: []
     compositeelements: []
     listelements: {}
@@ -18,43 +18,43 @@ attributes:
     elements:
       - code: links
         value:
-          symbolicDestination: '#!U;https://intranet.demo.servizi.it!#'
-          urlDest: 'https://intranet.demo.servizi.it'
+          symbolicDestination: '#!U;https://www.lapam.eu/notizie/normative/fisco/!#'
+          urlDest: 'https://www.lapam.eu/notizie/normative/fisco/'
           pageDest: null
           contentDest: null
           destType: 1
           resourceDest: null
         values:
-          en: Esempio link 1
-          it: Esempio link 1
+          en: Fisco
+          it: Fisco
         elements: []
         compositeelements: []
         listelements: {}
       - code: links
         value:
-          symbolicDestination: '#!U;http://www.comlog.demo.servizi.it!#'
-          urlDest: 'http://www.comlog.demo.servizi.it'
+          symbolicDestination: '#!U;https://www.lapam.eu/notizie/normative/lavoro/!#'
+          urlDest: 'https://www.lapam.eu/notizie/normative/lavoro/'
           pageDest: null
           contentDest: null
           destType: 1
           resourceDest: null
         values:
-          en: Esempio link 2
-          it: Esempio link 2
+          en: Lavoro
+          it: Lavoro
         elements: []
         compositeelements: []
         listelements: {}
       - code: links
         value:
-          symbolicDestination: '#!U;https://intranet.demo.servizi.it/it/centro_servizi.page!#'
-          urlDest: 'https://intranet.demo.servizi.it/it/centro_servizi.page'
+          symbolicDestination: '#!U;https://www.lapam.eu/notizie/normative/lavoro/!#'
+          urlDest: 'https://www.lapam.eu/notizie/normative/lavoro/'
           pageDest: null
           contentDest: null
           destType: 1
           resourceDest: null
         values:
-          en: Esempio link 3
-          it: Esempio link 3
+          en: Imprese & Territorio
+          it: Imprese & Territorio
         elements: []
         compositeelements: []
         listelements: {}

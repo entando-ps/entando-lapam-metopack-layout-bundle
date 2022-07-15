@@ -28,9 +28,6 @@ widgets:
   - code: menu_lapam
     config: null
     pos: 4
-  - code: demo_breadcrumb
-    config: null
-    pos: 8
   - code: content_viewer_list
     config:
       modelId: '607'
@@ -39,13 +36,16 @@ widgets:
       categories:
         - demo-docs-es
       contentType: CRD
+      pageLink: demo_dettaglio
       filters:
         - attributeFilter: true
           key: date
           order: DESC
-      title_it: Archivio documenti
-      title_en: Archivio documenti
-    pos: 9
+      linkDescr_it: Archivio Documenti
+      linkDescr_en: Archivio Documenti
+      title_it: Documenti in evidenza
+      title_en: Documenti in evidenza
+    pos: 8
   - code: demo_logo_ft1
     config:
       modelId: '502'

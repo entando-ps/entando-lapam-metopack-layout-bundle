@@ -13,6 +13,11 @@ customUi: |-
                      </a>
                   </li>
                   <li class="nav-link" padre="">
+                     <a href="<@wp.url page="demo_news" />" class="nav-link no-son-page 1" />
+                     <span> Novità </span>
+                     </a>
+                  </li>
+                  <li class="nav-link" padre="">
                      <a href="<@wp.url page="demo_docs" />" class="nav-link no-son-page 1" />
                      <span> Documenti </span>
                      </a>

@@ -42,13 +42,13 @@ widgets:
       categories:
         - demo-coms-es
       contentType: CRD
-      pageLink: demo_avvisi
+      pageLink: demo_news
       filters:
         - attributeFilter: true
           key: date
           order: DESC
-      linkDescr_it: Archivio avvisi
-      linkDescr_en: Archivio avvisi
+      linkDescr_it: Archivio notizie
+      linkDescr_en: Archivio notizie
       title_it: Ultime notizie
       title_en: Ultime notizie
     pos: 8

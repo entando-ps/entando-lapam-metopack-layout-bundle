@@ -1,8 +1,8 @@
-code: demo_docs
+code: demo_news
 parentCode: homepage
 titles:
-  en: Documenti
-  it: Documenti
+  en: News
+  it: Notizie
 pageModel: demo_home
 ownerGroup: free
 joinGroups: []
@@ -33,18 +33,18 @@ widgets:
     pos: 8
   - code: content_viewer_list
     config:
-      modelId: '607'
-      maxElemForItem: '3'
-      maxElements: '3'
+      modelId: "606"
+      maxElemForItem: "4"
+      maxElements: "4"
       categories:
-        - demo-docs-es
+        - demo-coms-es
       contentType: CRD
       filters:
         - attributeFilter: true
           key: date
           order: DESC
-      title_it: Archivio documenti
-      title_en: Archivio documenti
+      title_it: Archivio delle notizie
+      title_en: Archivio delle notizie
     pos: 9
   - code: demo_logo_ft1
     config:

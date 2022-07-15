@@ -1,6 +1,6 @@
 id: CRD08
 typeCode: CRD
-description: Numero unico di prenotazione per il personale in servizio
+description: Caro bollette nuova proroga delle misure anti rincari
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-      it: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      en: 'Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022'
+      it: 'Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022'
     elements: []
     compositeelements: []
     listelements: {}
@@ -24,11 +24,11 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '05'
-        name: logo_3x.jpg
+        correlationCode: '08'
+        name: slide.jpg
       it:
-        correlationCode: '05'
-        name: logo_3x.jpg
+        correlationCode: '08'
+        name: slide.jpg
     elements: []
     compositeelements: []
     listelements: {}
@@ -74,14 +74,14 @@ attributes:
     value: null
     values:
       en: |
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022</p>
       it: |
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Il decreto estende le misure previste dai precedenti provvedimenti, al III trimestre 2022</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: date
-    value: '2021-10-27 00:00:00'
+    value: '2022-07-07 00:00:00'
     values: {}
     elements: []
     compositeelements: []
@@ -89,8 +89,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-      it: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      en: 'Caro bollette, nuova proroga delle misure anti rincari'
+      it: 'Caro bollette, nuova proroga delle misure anti rincari'
     elements: []
     compositeelements: []
     listelements: {}

@@ -28,6 +28,9 @@ widgets:
   - code: menu_lapam
     config: null
     pos: 4
+  - code: demo_breadcrumb
+    config: null
+    pos: 5
   - code: ent-lapam-metopack-MFE
     config:
       modulo: TkMastrini

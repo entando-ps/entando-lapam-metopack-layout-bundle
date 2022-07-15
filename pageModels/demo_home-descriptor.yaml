@@ -201,7 +201,7 @@ template: |-
           <div class="it-header-wrapper">
               <div class="it-header-slim-wrapper" >
                   <div class="containers">
-                      <div class="row">
+                      <div class="row-null">
                           <div class="col-12">
                               <div class="it-header-slim-wrapper-content">
                                   <a class="d-none d-lg-block navbar-brand" href="https://intranet.demo.servizi.it/" target="_blank">

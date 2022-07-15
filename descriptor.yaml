@@ -54,6 +54,7 @@ components:
     - pages/demo_dettaglio-descriptor.yaml
     - pages/demo_avvisi-descriptor.yaml
     - pages/demo_docs-descriptor.yaml
+    - pages/demo_news-descriptor.yaml
   groups:
     - groups/groups-descriptor.yaml
   contentTypes:
@@ -109,7 +110,10 @@ components:
     - assets/02/02-descriptor.yaml
     - assets/03/03-descriptor.yaml
     - assets/01/01-descriptor.yaml
-    - assets/05/05-descriptor.yaml
+    - assets/08/08-descriptor.yaml
+    - assets/09/09-descriptor.yaml
+    - assets/10/10-descriptor.yaml
+    - assets/11/11-descriptor.yaml
   contents:
     - contents/nws5-descriptor.yaml
     - contents/nws4-descriptor.yaml

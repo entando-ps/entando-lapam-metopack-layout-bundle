@@ -1,6 +1,6 @@
 id: CRD09
 typeCode: CRD
-description: Numero unico di prenotazione per il personale in servizio
+description: Ad essere maggiormente esposti ai danni provocati dal caldo sono i lavoratori del settore edile
 mainGroup: free
 status: PUBLIC
 categories:
@@ -15,8 +15,8 @@ attributes:
   - code: subtitle
     value: null
     values:
-      en: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-      it: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      en: 'Ad essere maggiormente esposti ai danni provocati dal caldo sono i lavoratori del settore edile'
+      it: 'Ad essere maggiormente esposti ai danni provocati dal caldo sono i lavoratori del settore edile'
     elements: []
     compositeelements: []
     listelements: {}
@@ -24,11 +24,11 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '05'
-        name: logo_3x.jpg
+        correlationCode: '09'
+        name: lavoro.jpg
       it:
-        correlationCode: '05'
-        name: logo_3x.jpg
+        correlationCode: '09'
+        name: lavoro.jpg
     elements: []
     compositeelements: []
     listelements: {}
@@ -74,9 +74,9 @@ attributes:
     value: null
     values:
       en: |
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Ad essere maggiormente esposti ai danni provocati dal caldo sono i lavoratori del settore edile</p>
       it: |
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Ad essere maggiormente esposti ai danni provocati dal caldo sono i lavoratori del settore edile</p>
     elements: []
     compositeelements: []
     listelements: {}
@@ -89,8 +89,8 @@ attributes:
   - code: title
     value: null
     values:
-      en: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-      it: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      en: 'Carburanti, prorogato dal 9 luglio al 2 agosto il taglio delle accise'
+      it: 'Carburanti, prorogato dal 9 luglio al 2 agosto il taglio delle accise'
     elements: []
     compositeelements: []
     listelements: {}

@@ -28,6 +28,9 @@ widgets:
   - code: menu_lapam
     config: null
     pos: 4
+  - code: demo_breadcrumb
+    config: null
+    pos: 8
   - code: content_viewer_list
     config:
       modelId: '508'
@@ -36,7 +39,7 @@ widgets:
       title_it: Archivio avvisi
       title_en: Archivio avvisi
       contentType: AVV
-    pos: 8
+    pos: 9
   - code: demo_logo_ft1
     config:
       modelId: '502'
